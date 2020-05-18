@@ -1,14 +1,14 @@
 
-g
-java:S1192"JDefine a constant instead of duplicating this literal "Hi Pankaj" 4 times.(ç²á´8…¤ı‘¡.
-j
-java:S1192"HDefine a constant instead of duplicating this literal "Hi Polo" 4 times.( öÉ–úÿÿÿÿ8‚Úü•¡.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßÙ­®ÿÿÿÿÿ8ÑÀÀ‘¡.
-o
-java:S1192"MDefine a constant instead of duplicating this literal "Polo@abc.com" 4 times.( öÉ–úÿÿÿÿ8‚Úü•¡.
-l
-java:S1192"ODefine a constant instead of duplicating this literal "pankaj@abc.com" 4 times.(ç²á´8…¤ı‘¡.
 Z
 java:S1128	"=Remove this unused import 'services.video.EmailVideoService'.(“—®8à¢ô‘¡.
 Q
 java:S1128"5Remove this unused import 'com.google.inject.Module'.(£æˆ'8à¢ô‘¡.
+o
+java:S1192"MDefine a constant instead of duplicating this literal "Polo@abc.com" 4 times.( öÉ–úÿÿÿÿ8‚Úü•¡.
+l
+java:S1192"ODefine a constant instead of duplicating this literal "pankaj@abc.com" 4 times.(ç²á´8…¤ı‘¡.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Hi Polo" 4 times.( öÉ–úÿÿÿÿ8‚Úü•¡.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Hi Pankaj" 4 times.(ç²á´8…¤ı‘¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßÙ­®ÿÿÿÿÿ8ÑÀÀ‘¡.
